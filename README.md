@@ -13,12 +13,12 @@ Estoy dispuestos a colaborar en proyectos y así seguir obteniendo experiencia c
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logocolor=white)
 
-# Otros
+# Herramientas
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=black)
-# Encuentrame en
+# Me puedes encontrar en
 [![Instagram](https://img.shields.io/badge/Instagram-@mauricio_lara-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/maur.icio000/profilecard/?igsh=d3c1d3lyZWk2bzhu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mauricio_Lara-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/sergio-mauricio-rivera-lara-8a7481287/)
 
